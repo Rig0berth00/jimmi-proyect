@@ -1,2 +1,0 @@
-# jimmi-proyect
-cursito
